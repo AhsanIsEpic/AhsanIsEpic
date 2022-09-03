@@ -18,6 +18,7 @@ Hry I'm 'MoneyMakingTonrnado', however I may be reffered to Ahsan Is Epic within
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsanisepic/"><img src="linkedin.svg" width="64"/></a>
+  <span style="opacity:0;">&#8205;&#8205;&#8205;&#8205;</span> 
   <a href="mailto:MoneyMakingTornado@outlook.com"><img src="email.svg" width="64"/></a>
 </p>
 
