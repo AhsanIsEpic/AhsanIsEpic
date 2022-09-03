@@ -6,7 +6,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyMakingTornado&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
 </p>
 
-I'm MoneyMakingTonrnado, however I may be reffered to Ahsan Is Epic within my other creations. I've participated in many projects, both as an individual and in teams working with others more greater than me! Some of my contributes are avialble to view on my github profile.
+Hry I'm 'MoneyMakingTonrnado', however I may be reffered to Ahsan Is Epic within my other creations. I've participated in many projects, both as an individual and in teams working with others more greater than me! Some of my public contributes as a programmer are available here to view on my github profile. Some technologys I have tried out are: Game Design in Unity and Unreal, Automations/bots via Twitters, Discords and ProQuants (Discontinued) APIS, taking part in robotics competitons and a contributer to Googles summer of code and I still have much more I want to explore.
+
+### Some of my ideas I had over the years
+
+<iframe src="https://app.milanote.com/1JWwq31i9wp15r?p=TI0038UXPPH" width="800" height="500" frameborder="0"></iframe>
+
+### How to Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahsanisepic/"><img src="linkedin.svg" width="32"/></a>
+  <a href="mailto:MoneyMakingTornado@outlook.com"><img src="email.svg" width="32"/></a>
+</p>
+
+---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MoneyMakingTornado.readme)
 
 <!--
 **MoneyMakingTornado/MoneyMakingTornado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
