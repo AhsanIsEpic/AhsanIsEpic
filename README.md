@@ -10,7 +10,9 @@ Hry I'm 'MoneyMakingTonrnado', however I may be reffered to Ahsan Is Epic within
 
 ### Some of my ideas I had over the years
 
-<iframe src="https://app.milanote.com/1JWwq31i9wp15r?p=TI0038UXPPH" width="800" height="500" frameborder="0"></iframe>
+<p align="center">
+  <iframe src="https://app.milanote.com/1JWwq31i9wp15r?p=TI0038UXPPH" width="800" height="500" frameborder="0"></iframe>
+</p>
 
 ### How to Reach Me
 
