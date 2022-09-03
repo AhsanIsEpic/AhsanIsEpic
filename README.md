@@ -11,14 +11,14 @@ Hry I'm 'MoneyMakingTonrnado', however I may be reffered to Ahsan Is Epic within
 ### Some of my ideas I had over the years
 
 <p align="center">
-  <a href="https://app.milanote.com/1JWwq31i9wp15r?p=TI0038UXPPH"><img src="ScreenShot.svg" width="32"/></a>
+  <a href="https://app.milanote.com/1JWwq31i9wp15r?p=TI0038UXPPH"><img src="milanote.png" width="800"/></a>
 </p>
 
 ### How to Reach Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahsanisepic/"><img src="linkedin.svg" width="32"/></a>
-  <a href="mailto:MoneyMakingTornado@outlook.com"><img src="email.svg" width="32"/></a>
+  <a href="https://www.linkedin.com/in/ahsanisepic/"><img src="linkedin.svg" width="128"/></a>
+  <a href="mailto:MoneyMakingTornado@outlook.com"><img src="email.svg" width="128"/></a>
 </p>
 
 ---
