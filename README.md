@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyMakingTornado&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
 </p>
 
+I'm MoneyMakingTonrnado, however I may be reffered to Ahsan Is Epic within my other creations. I've participated in many projects, both as an individual and in teams working with others more greater than me! Some of my contributes are avialble to view on my github profile.
+
 <!--
 **MoneyMakingTornado/MoneyMakingTornado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
