@@ -1,10 +1,18 @@
 ### Hi there 👋
-### You've reached the profile of Money Making Tornado
 
-![MoneyMakingTornado's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoneyMakingTornado&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyMakingTornado)](https://github.com/MoneyMakingTornado/github-readme-stats)
+<a href="https://github.com/MoneyMakingTornado/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoneyMakingTornado&include_all_commits=true" />
+</a>
 
-Hry I'm 'MoneyMakingTonrnado', however I may be reffered to Ahsan Is Epic within my other creations. I've participated in many projects, both as an individual and in teams working with others more greater than me! Some of my public contributes as a programmer are available here to view on my github profile. Some technologys I have tried out are: Game Design in Unity and Unreal, Automations/bots via Twitters, Discords and ProQuants (Discontinued) APIS, taking part in robotics competitons and I still have much more I want to explore.
+###
+
+<a href="https://github.com/MoneyMakingTornado/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyMakingTornado" />
+</a>
+
+### You've reached the profile of MoneyMakingTornado
+
+Hey I'm 'MoneyMakingTonrnado', however I may be reffered to Ahsan Is Epic within my other creations. I've participated in many projects, both as an individual and in teams working with others more greater than me! Some of my public contributes as a programmer are available here to view on my github profile. Some technologys I have tried out are: Game Design in Unity and Unreal, Automations/bots via Twitters, Discords and ProQuants (Discontinued) APIS, taking part in robotics competitons and I still have much more I want to explore.
 
 ### Some of my ideas I had over the years
 
