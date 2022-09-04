@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--
+
 <a href="https://github.com/MoneyMakingTornado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoneyMakingTornado&include_all_commits=true" />
 </a>
@@ -9,6 +11,8 @@
 <a href="https://github.com/MoneyMakingTornado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyMakingTornado" />
 </a>
+
+-->
 
 ### You've reached the profile of MoneyMakingTornado
 
