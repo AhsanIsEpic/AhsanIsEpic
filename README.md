@@ -17,11 +17,11 @@
 
 Hey I'm 'MoneyMakingTonrnado', however I may be reffered to Ahsan Is Epic within my other creations. I've participated in many projects, both as an individual and in teams working with others more greater than me! Some of my public contributes as a programmer are available here to view on my github profile. Some technologys I have tried out are: Game Design in Unity and Unreal, Automations/bots via Twitters, Discords and ProQuants (Discontinued) APIS, taking part in robotics competitons and I still have much more I want to explore.
 
-### Some of my ideas I had over the years
+<!-- ### Some of my ideas I had over the years
 
 <p align="center">
   <a href="https://app.milanote.com/1JWwq31i9wp15r?p=TI0038UXPPH"><img src="milanote.png" width="200"/></a>
-</p>
+</p> -->
 
 ### How to Reach Me
 
