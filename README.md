@@ -4,8 +4,18 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-two-woad-82.vercel.app/api/top-langs/?username=AhsanIsEpic" />
 </a>
+
+
+![visitor badge](https://visitor-badge.imlete.cn/?id=AhsanIsEpic.readme)
+
+
 <!--
 ### You've reached the profile of AhsanIsEpic
 
 Description stuff
+-->
+
+<!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AhsanIsEpic.readme)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=AhsanIsEpic.readme)
 -->
