@@ -1,4 +1,4 @@
-## I got ChatGPT to write this for me by just linking my profile and changed a few bits:
+## I got ChatGPT to write this for me and changed a few bits:
 
 <h1 align="center">Hey there <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="28"/> I’m Ahsan</h1>
 <p align="center">
