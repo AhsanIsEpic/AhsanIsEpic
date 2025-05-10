@@ -20,11 +20,13 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=flat&logo=arduino)
 
 ### 📦 Notable Repositories & Contributions
-| Project | What it does | My role |
-|---------|--------------|---------|
-| [`HWSF-Student-Robotics`](https://github.com/HWSF-Student-Robotics) | Created the Org to manage Resources for student robotics teams | Ex-maintainer |
-| [`nextcloud/integration_google`](https://github.com/nextcloud/integration_google) | Pushed a bug fix to an official Next-Cloud plugin | Contributor |
-| [`PrismarineJS/mineflayer`](https://github.com/PrismarineJS/mineflayer) | Pushed 3 lines of code to fix a memory leak in a JavaScript package used in creating minecraft bots | Contributor |
+| Project or PR | What I did |
+|-------------|--------------|
+| [`HWSF-Student-Robotics`](https://github.com/HWSF-Student-Robotics) | Created and managed resources for the Org |
+| [`nextcloud/integration_google PR`](https://github.com/nextcloud/integration_google/pull/209) | Pushed a bug fix related to filename sanitation |
+| [`PrismarineJS/mineflayer PR`](https://github.com/PrismarineJS/mineflayer/pull/1850) | Simple bug fix related to a memory leak |
+
+<!-- | [`Warwick Canoe Website`](https://github.com/AlwinHughes/WarwickCanoeUK) | Maintainance and updates to the site | -->
 
 ### 📊 GitHub Stats
 <p align="center">
