@@ -1,10 +1,10 @@
 ## I got ChatGPT to write this for me and changed a few bits:
 
 <h1 align="center">Hey there <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="28"/> I’m Ahsan</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?duration=3200&center=true&vCenter=true&lines=Full-stack+dev;Open-source+contributor;Robotics+alumnus;Forever+learning..." />
 </p>
-
+ -->
 
 ### 🧑‍💻 About Me
 - 💡 Always “probally coding something” — just like my profile tagline.  
