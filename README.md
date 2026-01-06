@@ -1,15 +1,23 @@
-## My GitHub profile consists of:
+<div align="center">
 
-- A memory leak bugfix in a JavaScript API to create minecraft bots   
-  (PrismarineJS/mineflayer)
+  ## My GitHub profile consists of:
+  
+  <div align="left" style="display: inline-block; text-align: left;">
+    
+  - A memory leak bugfix in a JavaScript API to create minecraft bots   
+    (PrismarineJS/mineflayer)
+  
+  - another bugfix for a logic bug for a plugin for that same API   
+    (PrismarineJS/MineflayerArmorManager)
+  
+  - A input‑validation bugfix and some data sanitation for an offical nextcloud plugin   
+    (nextcloud/integration_google)
+  
+  - Creating and previously contributing of the 'HWSF-Student-Robotics' github org
+  
+  </div>
 
-- another bugfix for a logic bug for a plugin for that same API   
-  (PrismarineJS/MineflayerArmorManager)
-
-- A input‑validation bugfix and some data sanitation for an offical nextcloud plugin   
-  (nextcloud/integration_google)
-
-- Creating and previously contributing of the 'HWSF-Student-Robotics' github org
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats-ahsan-is-epics-projects.vercel.app/api?username=AhsanIsEpic&include_all_commits=true&show_icons=true&rank_icon=percentile" alt="stats" />
