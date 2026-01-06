@@ -10,7 +10,7 @@
   - Another bugfix for a logic bug for a plugin for that same API   
     (PrismarineJS/MineflayerArmorManager)
   
-  - A input‑validation bugfix and some data sanitation for an offical nextcloud plugin   
+  - An input validation and data sanitation bugfix for an offical nextcloud plugin   
     (nextcloud/integration_google)
   
   - Creating and previously contributing of the 'HWSF-Student-Robotics' github org
