@@ -7,7 +7,7 @@
   - A memory leak bugfix in a JavaScript API to create minecraft bots   
     (PrismarineJS/mineflayer)
   
-  - another bugfix for a logic bug for a plugin for that same API   
+  - Another bugfix for a logic bug for a plugin for that same API   
     (PrismarineJS/MineflayerArmorManager)
   
   - A input‑validation bugfix and some data sanitation for an offical nextcloud plugin   
