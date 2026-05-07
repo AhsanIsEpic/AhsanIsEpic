@@ -10,7 +10,10 @@
   - Another bugfix for a logic bug for a plugin for that same API   
     (PrismarineJS/MineflayerArmorManager)
   
-  - An input validation and data sanitation bugfix for an offical nextcloud plugin   
+  - An input validation and data sanitation bugfix for an offical Nextcloud plugin   
+    (nextcloud/integration_google)
+
+  - Added the current implementation of Google Photos support to Nextcloud
     (nextcloud/integration_google)
   
   - Creating and previously contributing of the 'HWSF-Student-Robotics' github org
