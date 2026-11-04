@@ -1,31 +1,16 @@
-<!-- <div align="center">
+<p align="center">
+  <a href="https://vortekx.net/rocket/">
+    <img src="rocket.gif" width="45%" alt="Play Rocket">
+  </a>
+  <a href="https://vortekx.net/canyoudriftbro/">
+    <img src="can-you-drift-bro.gif" width="45%" alt="Play Can You Drift Bro">
+  </a>
+</p>
 
-  ## My GitHub profile consists of:
-  
-  <div align="left" style="display: inline-block; text-align: left;">
-    
-  - A memory leak bugfix in a JavaScript API to create minecraft bots   
-    (PrismarineJS/mineflayer)
-  
-  - Another bugfix for a logic bug for a plugin for that same API   
-    (PrismarineJS/MineflayerArmorManager)
-  
-  - An input validation and data sanitation bugfix for an offical Nextcloud plugin   
-    (nextcloud/integration_google)
-
-  - Added the current implementation of Google Photos support to Nextcloud   
-    (nextcloud/integration_google)
-  
-  - Creating and previously contributing of the 'HWSF-Student-Robotics' github org
-  
-  </div>
-
-</div> -->
-
-<!-- <p align="center">
+<!-- 
+<p align="center">
   <img src="https://github-readme-stats-ahsan-is-epics-projects.vercel.app/api?username=AhsanIsEpic&include_all_commits=true&show_icons=true&rank_icon=percentile" alt="stats" />
   <!- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhsanIsEpic" alt="streak" /> ->
 </p> 
-
-## -->
+-->
 <p align="center"> Total profile visitors:<br /> <img src="https://visitor-badge.imlete.cn/?id=AhsanIsEpic.readme" alt="visitor badge" /> </p>
