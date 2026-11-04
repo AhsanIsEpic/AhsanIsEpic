@@ -1,5 +1,5 @@
-<img src="https://visitor-badge.imlete.cn/?id=AhsanIsEpic.readme" width="0" height="0" alt="" />
 <p align="center">
+  <img src="https://visitor-badge.imlete.cn/?id=AhsanIsEpic.readme" width="0" height="0" alt="" />
   <a href="https://vortekx.net/rocket/">
     <img src="rocket.gif" width="45%" alt="Play Rocket">
   </a>
